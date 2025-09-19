@@ -15,24 +15,23 @@ Example output:
 
 Brute-force for 5 passwords.
 Password found: 123
-Tries: 150
-Time: 0.023456 s
+Tries: 482370
+Time: 1.397849 s
 
 Password found: abc
-Tries: 210
-Time: 0.034789 s
+Tries: 446646
+Time: 0.745427 s
 
 Password found: XYZ
 Tries: 1020
 Time: 0.120345 s
 
 Password found: 456
-Tries: 1500
-Time: 0.180234 s
-
+Tries: 509163
+Time: 2.006777 s
 Password found: pass
-Tries: 2000
-Time: 0.240567 s
+Tries: 13299985
+Time: 18.580420 s
 
 Each password shows a graph with the progress of tries and time.
 Reflection:
